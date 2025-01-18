@@ -45,10 +45,10 @@
 ### 🤝 Connect with me
 
 <div align="center">
-  <a href="https://twitter.com/yourtwitterhandle" target="_blank">
+  <a href="https://twitter.com/yourtwitterhandle" target="https://www.linkedin.com/in/sujan-das">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://linkedin.com/in/yourlinkedinhandle" target="_blank">
+  <a href="https://linkedin.com/in/yourlinkedinhandle" target="https://x.com/Sujan3211?t=NZ8ck61WpWBQD8-2CXZLRQ&s=08">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:sujandas.connect@gmail.com">
@@ -66,13 +66,7 @@
 <summary>🧰 More Skills</summary>
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="prisma" />
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" alt="recoil" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
-</div>
+***************************************************************************
 
 </details>
 
