@@ -8,7 +8,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SujanDas&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="profile views" /> 
-  <img src="https://img.shields.io/github/followers/SujanDas?label=Followers&style=for-the-badge" alt="followers" />
 </div>
 
 <div align="center">
@@ -17,7 +16,7 @@
 
 <div align="center">
   
-  ```javascript
+  javascript
   const aboutMe = {
     👨‍💻 role: "Full Stack Developer",
     🏢 currentWork: "AIML Developer Intern @ Euphoria GenX",
@@ -25,7 +24,7 @@
     📚 learning: ["App Development", "AWS"],
     🎯 goals: "Building innovative solutions that matter"
   };
-  ```
+  
   
 </div>
 
