@@ -1,61 +1,85 @@
-Here's a prompt to generate a GitHub README with animations: 
+<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> I'm Sujan Das</h1>
 
-```markdown
-# Hi there! 👋 I'm Sujan Das
+<h3 align="center">🚀 Passionate Front-end Developer from India</h3>
 
-🚀 **Passionate Front-end Developer from India**
-
----
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=myselfsandip&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="profile views" />
+</p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SujanDas/portfolio-assets/main/coding-animation.gif" alt="Coding Animation" width="600px">
+    <img src="https://www.minjunkim.ca/images/lofiboy.gif" alt="coding animation" width="400" />
 </div>
 
 ---
 
-## 👨‍💻 About Me
-- 💼 **Full Stack Developer** proficient in **MERN Stack** and **PHP**.
-- 🌱 Currently an **AIML Developer Intern** at **Euphoria GenX**.
-- 🔭 Actively working on personal projects and expanding my skill set.
-- ☁️ Learning **App Development** and **Cloud Technologies**.
-- 📫 Reach out to me at **[sujandas.connect@gmail.com](mailto:sujandas.connect@gmail.com)**.
-- 🤝 Connect with me on:
-  - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)
-  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedinhandle)
-  - [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sujandas.connect@gmail.com)
+### 👨‍💻 About Me
+
+- 💼 Full Stack Developer proficient in MERN Stack and PHP
+- 🌱 Currently a AIML Developer Intern at Euphoria GenX 
+- 🔭 Actively working on personal projects and expanding my skill set
+- ☁️ Currently learning App Development and cloud technologies 
+- 📫 Reach out to me at **sujandas.connect@gmail.com**
+
+### 🤝 Connect with me
+
+<p align="left">
+    <a href="https://x.com/sandipsingha07" target="_blank">
+        <img src="https://img.shields.io/twitter/follow/sandipsingha07?logo=twitter&style=for-the-badge" alt="Twitter" />
+    </a>
+    <a href="https://linkedin.com/in/myself-sandip" target="_blank">
+        <img src="https://img.shields.io/badge/-myself--sandip-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+</p>
+
+### 🛠️ Tech Stack
+
+<p align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="tailwind" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" />
+     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
+    <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpmyadmin" />
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+    <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="prisma" />
+    <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" alt="recoil" />
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" />
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=myselfsandip&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=myselfsandip&show_icons=true&locale=en&theme=radical" alt="github stats" />
+</p>
+
+<p align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=myselfsandip&theme=radical" alt="GitHub Streak" />
+    </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-### Programming Languages
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-
-### Frameworks and Libraries
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Tools and Platforms
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-%2333C481.svg?style=flat-square&logo=microsoft-excel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-%23B7472A.svg?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SujanDas&show_icons=true&theme=radical" alt="Sujan's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujanDas&layout=compact&theme=radical" alt="Most Used Languages" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SujanDas&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</div>
-
----
-
-### Let's connect and build something amazing together!
-```
+<p align="center">
+    <i>Let's connect and build something amazing together!</i>
+</p>
