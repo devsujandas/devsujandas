@@ -14,60 +14,8 @@
   <img src="https://www.minjunkim.ca/images/lofiboy.gif" alt="coding animation" width="400" />
 </div>
 
-<div align="center">
-  
-/**
- * 🎯 About Sujan Das
- * ==================
- * Full Stack Developer & AI Enthusiast
- */
 
-const AboutMe = {
-    👨‍💻 title: "Front-end Developer",
     
-    🏢 currentRole: {
-        "AIML Developer Intern @ Euphoria GenX",
-    },
-    
-    🚀 expertise: [
-        "Front-end Development",
-        "API Integration"
-        "Artificial Intelligence.",
-        "DSA with Python"
-
-        
-    ],
-    
-    📚 currentlyLearning: [
-        "Advanced App Development",
-        "MERN Full Stack Development",
-
-    ],
-    
-    🎯 futureGoals: {
-        Building innovative solutions that matter
-    },
-
-    ⚡ funFact: "I believe every line of code can make a difference!"
-};
-
-// Let's collaborate and build something amazing! 🤝
-```
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
-<div align="center">
-  
-[![Skills](https://img.shields.io/badge/💻_Technical_Skills-20232A?style=for-the-badge)](https://github.com/SujanDas)
-[![Learning](https://img.shields.io/badge/📚_Always_Learning-FF4088?style=for-the-badge)](https://github.com/SujanDas)
-[![Goals](https://img.shields.io/badge/🎯_Goal_Oriented-00C7B7?style=for-the-badge)](https://github.com/SujanDas)
-
-</div>
----
 
 ### 🎯 What I'm Currently Up To
 
