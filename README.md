@@ -59,15 +59,42 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,php,mysql,python,aws,docker,git,typescript,tailwind&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,mysql,python,c&perline=5" />
+</div>
+
+<div align="center">
+  
+#### Primary Skills
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 </div>
 
 <details>
-<summary>🧰 More Skills</summary>
+<summary>🧰 Additional Skills</summary>
 <br>
 
-***************************************************************************
+<div align="center">
+  
+#### Design & Office Tools
+![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Logo Design](https://img.shields.io/badge/Logo_Design-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Poster Design](https://img.shields.io/badge/Poster_Design-%23FF3366.svg?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-%23B7472A.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
+#### Programming Concepts
+![Data Structures](https://img.shields.io/badge/Data_Structures-%230056D2.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-%23FF6B6B.svg?style=for-the-badge&logo=codecademy&logoColor=white)
+
+</div>
 </details>
 
 ### 📊 GitHub Stats
