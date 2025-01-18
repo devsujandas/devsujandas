@@ -15,8 +15,9 @@
 </div>
 
 <div align="center">
-### 👨‍💻I’m eager to present my work and discuss how my skills can add value to your projects.    
+  <h2 style="color:skyblue;">👨‍💻 I’m eager to present my work and discuss how my skills can add value to your projects. 🤝</h2>
 </div>
+
 
 ### 🎯 What I'm Currently Up To
 
