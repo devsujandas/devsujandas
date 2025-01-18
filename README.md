@@ -15,7 +15,8 @@
 </div>
 
 <div align="center">
-  <h2 style="color:#87CEEB;">👨‍💻I’m eager to present my work and discuss how my skills can add value to your projects.🤝</h2>
+  <img src="https://svgshare.com/i/uiU.svg" alt="👨‍💻I’m eager to present my work and discuss how my skills can add value to your projects.🤝" />
+
 </div>
 
 
