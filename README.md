@@ -48,15 +48,18 @@
 </div>
 
 
-### 🛠️ Tech Stack
 
 <div align="center">
+  <h2>🛠️ Tech Stack</h2>
+
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,mysql,python,c&perline=5" />
 </div>
 
 <div align="center">
   
-#### Primary Skills
+
+<h2>💻 Primary Skills</h2>
+
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -74,14 +77,17 @@
 
 <div align="center">
   
-#### Design & Office Tools
+
+<h2>🎨 Design & Office Tools</h2>
+
 ![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Logo Design](https://img.shields.io/badge/Logo_Design-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Poster Design](https://img.shields.io/badge/Poster_Design-%23FF3366.svg?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-%23B7472A.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
-#### Programming Concepts
+<h2>🌀 Programming Concepts</h2>
+
 ![Data Structures](https://img.shields.io/badge/Data_Structures-%230056D2.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-%23FF6B6B.svg?style=for-the-badge&logo=codecademy&logoColor=white)
 
