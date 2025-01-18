@@ -42,12 +42,6 @@
   </a>
 </div>
 
-### 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,mysql,python,c&perline=5" />
-</div>
-
 
 ### 🛠️ Tech Stack
 
@@ -66,7 +60,6 @@
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 </div>
 
