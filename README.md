@@ -48,11 +48,11 @@
 </div>
 
 
+### 🛠️ Tech Stack
 
 <div align="center">
-  <h2>🛠️ Tech Stack</h2>
-
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,mysql,python,c&perline=5" />
+  
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,mysql,python,java" />
 </div>
 
 <div align="center">
