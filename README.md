@@ -14,8 +14,9 @@
   <img src="https://www.minjunkim.ca/images/lofiboy.gif" alt="coding animation" width="400" />
 </div>
 
-
-    
+<div align="center">
+### 👨‍💻I’m eager to present my work and discuss how my skills can add value to your projects.    
+</div>
 
 ### 🎯 What I'm Currently Up To
 
