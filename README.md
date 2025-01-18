@@ -71,8 +71,8 @@
 
 </div>
 
-<details>
-<summary>🧰 Additional Skills</summary>
+
+### 🧰 Additional Skills
 <br>
 
 <div align="center">
@@ -92,7 +92,6 @@
 ![Algorithms](https://img.shields.io/badge/Algorithms-%23FF6B6B.svg?style=for-the-badge&logo=codecademy&logoColor=white)
 
 </div>
-</details>
 
 ### 📊 GitHub Stats
 
