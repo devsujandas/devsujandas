@@ -1,85 +1,108 @@
-<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> I'm Sujan Das</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=F7D748&background=81FF4200&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Sujan+Das;Welcome+to+my+Profile!" alt="Typing SVG" />
+</h1>
 
-<h3 align="center">🚀 Passionate Front-end Developer from India</h3>
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=myselfsandip&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="profile views" />
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=36BCF7FF&background=FF000000&center=true&vCenter=true&random=false&width=500&lines=🚀+Passionate+Front-end+Developer+from+India;💻+MERN+Stack+Developer;🤖+AIML+Developer+Intern" alt="Typing SVG" />
+</h3>
 
 <div align="center">
-    <img src="https://www.minjunkim.ca/images/lofiboy.gif" alt="coding animation" width="400" />
+  <img src="https://komarev.com/ghpvc/?username=SujanDas&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="profile views" /> 
+  <img src="https://img.shields.io/github/followers/SujanDas?label=Followers&style=for-the-badge" alt="followers" />
+</div>
+
+<div align="center">
+  <img src="https://www.minjunkim.ca/images/lofiboy.gif" alt="coding animation" width="400" />
+</div>
+
+<div align="center">
+  
+  ```javascript
+  const aboutMe = {
+    👨‍💻 role: "Full Stack Developer",
+    🏢 currentWork: "AIML Developer Intern @ Euphoria GenX",
+    🚀 skills: ["MERN Stack", "PHP", "Cloud Technologies"],
+    📚 learning: ["App Development", "AWS"],
+    🎯 goals: "Building innovative solutions that matter"
+  };
+  ```
+  
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 🎯 What I'm Currently Up To
 
-- 💼 Full Stack Developer proficient in MERN Stack and PHP
-- 🌱 Currently a AIML Developer Intern at Euphoria GenX 
-- 🔭 Actively working on personal projects and expanding my skill set
-- ☁️ Currently learning App Development and cloud technologies 
-- 📫 Reach out to me at **sujandas.connect@gmail.com**
+<div align="left">
+  
+- 💼 Developing **Full Stack Applications** with **MERN** & **PHP**
+- 🌱 Exploring **AI & Machine Learning** at **Euphoria GenX**
+- 🔭 Building **Personal Projects** to expand my portfolio
+- ☁️ Learning **Cloud Technologies** & **App Development**
+- 📫 Reach me at **[sujandas.connect@gmail.com](mailto:sujandas.connect@gmail.com)**
+
+</div>
 
 ### 🤝 Connect with me
 
-<p align="left">
-    <a href="https://x.com/sandipsingha07" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/sandipsingha07?logo=twitter&style=for-the-badge" alt="Twitter" />
-    </a>
-    <a href="https://linkedin.com/in/myself-sandip" target="_blank">
-        <img src="https://img.shields.io/badge/-myself--sandip-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-</p>
+<div align="center">
+  <a href="https://twitter.com/yourtwitterhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/yourlinkedinhandle" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sujandas.connect@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="tailwind" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" />
-     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
-    <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpmyadmin" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,php,mysql,python,aws,docker,git,typescript,tailwind&perline=5" />
+</div>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-    <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="prisma" />
-    <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" alt="recoil" />
-</p>
+<details>
+<summary>🧰 More Skills</summary>
+<br>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
-    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" />
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="prisma" />
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" alt="recoil" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
+</div>
+
+</details>
 
 ### 📊 GitHub Stats
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=myselfsandip&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-</p>
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=SujanDas&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujanDas&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
+  
+</div>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=myselfsandip&show_icons=true&locale=en&theme=radical" alt="github stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SujanDas&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=myselfsandip&theme=radical" alt="GitHub Streak" />
-    </a>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SujanDas&theme=discord&no-frame=true&column=7" alt="trophy" />
+</div>
 
 ---
 
-<p align="center">
-    <i>Let's connect and build something amazing together!</i>
-</p>
+<div align="center">
+  
+  ### 🐍 Watch my contribution graph get eaten by the snake
+  
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  
+  <h3>✨ Let's connect and build something amazing together! ✨</h3>
+  
+</div>
