@@ -31,12 +31,12 @@
 ### 🤝 Connect with me
 
 <div align="center">
-  <a href="https://x.com/Sujan3211?t=NZ8ck61WpWBQD8-2CXZLRQ&s=08" target="_blank" style="text-decoration: none;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg" alt="Twitter" style="width: 20px; height: 20px; vertical-align: middle;">
-</a>
- <a href="https://www.linkedin.com/in/sujan-das-286964258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" style="text-decoration: none;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" style="width: 20px; height: 20px; vertical-align: middle;">
-</a>
+  <a href="https://x.com/Sujan3211?t=NZ8ck61WpWBQD8-2CXZLRQ&s=08" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/sujan-das-286964258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="mailto:sujandas.connect@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
