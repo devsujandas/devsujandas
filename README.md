@@ -16,28 +16,66 @@
 
 <div align="center">
   
-  javascript
-  const aboutMe = {
-    👨‍💻 Role: "Front-end Developer",
-    🏢 currentWork: "AIML Developer Intern @ Euphoria GenX",
-    🚀 skills: ["MERN Stack", "PHP", "Cloud Technologies"],
-    📚 learning: ["App Development", "AWS"],
-    🎯 goals: "Building innovative solutions that matter"
-  };
-  
-  
+/**
+ * 🎯 About Sujan Das
+ * ==================
+ * Full Stack Developer & AI Enthusiast
+ */
+
+const AboutMe = {
+    👨‍💻 title: "Front-end Developer",
+    
+    🏢 currentRole: {
+        "AIML Developer Intern @ Euphoria GenX",
+    },
+    
+    🚀 expertise: [
+        "Front-end Development",
+        "API Integration"
+        "Artificial Intelligence.",
+        "DSA with Python"
+
+        
+    ],
+    
+    📚 currentlyLearning: [
+        "Advanced App Development",
+        "MERN Full Stack Development",
+
+    ],
+    
+    🎯 futureGoals: {
+        Building innovative solutions that matter
+    },
+
+    ⚡ funFact: "I believe every line of code can make a difference!"
+};
+
+// Let's collaborate and build something amazing! 🤝
+```
+
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+<div align="center">
+  
+[![Skills](https://img.shields.io/badge/💻_Technical_Skills-20232A?style=for-the-badge)](https://github.com/SujanDas)
+[![Learning](https://img.shields.io/badge/📚_Always_Learning-FF4088?style=for-the-badge)](https://github.com/SujanDas)
+[![Goals](https://img.shields.io/badge/🎯_Goal_Oriented-00C7B7?style=for-the-badge)](https://github.com/SujanDas)
+
+</div>
 ---
 
 ### 🎯 What I'm Currently Up To
 
 <div align="left">
   
-- 💼 Developing **Full Stack Applications** with **MERN** & **PHP**
+- 💼 Developing **Front-end Web Development**
 - 🌱 Exploring **AI & Machine Learning** at **Euphoria GenX**
 - 🔭 Building **Personal Projects** to expand my portfolio
-- ☁️ Learning **Cloud Technologies** & **App Development**
 - 📫 Reach me at **[sujandas.connect@gmail.com](mailto:sujandas.connect@gmail.com)**
 
 </div>
@@ -62,9 +100,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,mysql,python,c&perline=5" />
 </div>
 
-<div align="center">
+
   
-#### Primary Skills
+#### 💻 Primary Skills
+<div align="center">
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -81,18 +120,20 @@
 <summary>🧰 Additional Skills</summary>
 <br>
 
-<div align="center">
+
   
-#### Design & Office Tools
+#### 🎨 Design & Office Tools
+<div align="center">
 ![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Logo Design](https://img.shields.io/badge/Logo_Design-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Poster Design](https://img.shields.io/badge/Poster_Design-%23FF3366.svg?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-%23B7472A.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+</div>
 
-#### Programming Concepts
-![Data Structures](https://img.shields.io/badge/Data_Structures-%230056D2.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-%23FF6B6B.svg?style=for-the-badge&logo=codecademy&logoColor=white)
+#### 🌀 Programming Concepts
+<div align="center">
+![Data Structures & Algorithms](https://img.shields.io/badge/Data_Structures-%230056D2.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 </div>
 </details>
