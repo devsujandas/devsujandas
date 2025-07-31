@@ -1,124 +1,206 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Welcome%20to%20my%20Digital%20Universe&fontSize=28&fontAlignY=40&desc=Where%20Innovation%20Meets%20Imagination&descAlignY=60&descAlign=50&animation=twinkling"/>
+</div>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=F7D748&background=81FF4200&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Sujan+Das;Welcome+to+my+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=1000&color=00D9FF&background=00000000&center=true&vCenter=true&width=550&lines=Hi+there!+I'm+Sujan+Das" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=36BCF7FF&background=FF000000&center=true&vCenter=true&random=false&width=500&lines=🚀+Passionate+Front-end+Developer;💻🤖+AIML+Developer+Intern;💻+Pythonist" alt="Typing SVG" />
-</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SujanDas&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="profile views" /> 
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 <div align="center">
-  <img src="https://www.minjunkim.ca/images/lofiboy.gif" alt="coding animation" width="400" />
+  <img src="https://komarev.com/ghpvc/?username=devsujandas&label=Profile%20Views&color=00d9ff&style=for-the-badge&labelColor=1a1a1a" alt="profile views" />
 </div>
 
-<div align="center">
-<div align="center">
-  <h2 style="font color:#87CEEB;">👨‍💻I’m eager to present my work and discuss how my skills can add value to your projects.🤝</h2>
-</div>
-
-</div>
-
-
-### 🎯 What I'm Currently Up To
-
-<div align="left">
-  
-- 💼 Developing **Front-end Web Development**
-- 🌱 Exploring **AI & Machine Learning** at **Euphoria GenX**
-- 🔭 Building **Personal Projects** to expand my portfolio
-- 📫 Reach me at **[sujandas.connect@gmail.com](mailto:sujandas.connect@gmail.com)**
-
-</div>
-
-### 🤝 Connect with me
-
-<div align="center">
-  <a href="https://x.com/Sujan3211?t=NZ8ck61WpWBQD8-2CXZLRQ&s=08" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/sujan-das-286964258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sujandas.connect@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
-
-
-### 🛠️ Tech Stack
-
-<div align="center">
-  
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,mysql,python,java" />
-</div>
-
-<div align="center">
-  
-
-<h2>💻 Primary Skills</h2>
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
-
-### 🧰 Additional Skills
 <br>
 
+##  About Me
+
+<img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+I'm **Sujan Das** – a architect data-driven solutions as a Frontend Developer and Data Science Engineer. With a core in Python and a passion for AI/ML, I specialize in transforming complex data into smart and seamless user experiences.
+
+
+<br>
+
+
+```typescript
+Location: India 🇮🇳
+
+Mission: Building AI-powered solutions with exceptional UX
+
+Specialties: AI/ML, Full-Stack Development, Data Science, UI/UX Design
+
+Current Focus: Deep Learning, React/TypeScript, Cloud-Native AI
+
+Philosophy: Code with purpose, design with empathy, innovate with impact
+```
+
+<br clear="right"/>
+
+---
+
+##  What I'm Building
+
 <div align="center">
-  
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="120">
+        <br><br>
+        <h3> AI & Machine Learning</h3>
+        <p>Developing intelligent systems using <strong>Python</strong>, <strong>TensorFlow</strong>, and <strong>PyTorch</strong><br>
+        Focus on NLP, Computer Vision, and Predictive Analytics</p>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="120">
+        <br><br>
+        <h3> Full-Stack Development</h3>
+        <p>Creating responsive web applications with <strong>React</strong>, <strong>TypeScript</strong>, and <strong>Node.js</strong><br>
+        Modern UI/UX with Tailwind CSS and Framer Motion</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<h2>🎨 Design & Office Tools</h2>
+#  Tech Stack
 
-![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Logo Design](https://img.shields.io/badge/Logo_Design-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Poster Design](https://img.shields.io/badge/Poster_Design-%23FF3366.svg?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-%23B7472A.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+<div align="center">
 
-<h2>🌀 Programming Concepts</h2>
+##  Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-![Data Structures](https://img.shields.io/badge/Data_Structures-%230056D2.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-%23FF6B6B.svg?style=for-the-badge&logo=codecademy&logoColor=white)
+##  Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+##  AI/ML & Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+##  Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
-### 📊 GitHub Stats
+##  Current Objectives
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=SujanDas&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujanDas&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
-  
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">
+        <br><strong>Advanced AI Research</strong>
+        <br><sub>Exploring GPT models and Transformer architectures</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d7.gif" width="80">
+        <br><strong>Cloud-Native Development</strong>
+        <br><sub>Building scalable microservices with Docker & Kubernetes</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
+        <br><strong>Open Source Contributions</strong>
+        <br><sub>Contributing to AI/ML and React ecosystem projects</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🌐 Connect & Collaborate
+
+<p align="center">
+  <a href="https://sujandas.info" target="blank">
+ <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg" alt="Portfolio" height="50" width="50" style="filter: hue-rotate(200deg) saturate(2);" />
+</a>&nbsp;&nbsp;
+  <a href="https://github.com/devsujandas" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/devsujandas" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/devsujandas" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://facebook.com/devsujandas" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/devsujandas" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+</p>
+
+##  Developer Insights
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming" alt="Programming Quote">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SujanDas&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SujanDas&theme=discord&no-frame=true&column=7" alt="trophy" />
+  <details>
+    <summary> Fun Facts About Me</summary>
+    <br>
+    <div align="left">
+      <h4>🧠 Technical Philosophy</h4>
+      <ul>
+        <li>🐍 Python purist for AI/ML - it's not just a language, it's an art form</li>
+        <li>⚛️ React enthusiast who believes in component-driven development</li>
+        <li>🎨 Design-first developer - great UX drives user adoption</li>
+        <li>📊 Data storyteller - turning complex datasets into actionable insights</li>
+      </ul>
+      
+      <h4>⚡ Work Style & Habits</h4>
+      <ul>
+        <li>☕ Coffee + Code = Productivity (optimal ratio: 2:1)</li>
+        <li>🌙 Night owl coder - best algorithms emerge after midnight</li>
+        <li>🎵 Lo-fi beats and synthwave fuel my coding sessions</li>
+        <li>🔄 Agile mindset - iterate fast, fail fast, learn faster</li>
+      </ul>
+      
+      <h4>🚀 Personal Interests</h4>
+      <ul>
+        <li>🌱 Continuous learner - always exploring emerging technologies</li>
+        <li>🤝 Open source advocate - believe in collaborative innovation</li>
+        <li>🎯 Problem solver - love tackling complex algorithmic challenges</li>
+        <li>🌟 Tech mentor - helping others break into AI and development</li>
+      </ul>
+    </div>
+  </details>
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="120">
+  <br><br>
+  <h2> "Innovation distinguishes between a leader and a follower" </h2>
+  <h4><em>Ready to create something extraordinary? Let's collaborate and build the future! 🚀</em></h4>
+  <br>
   
-  ### 🐍 Watch my contribution graph get eaten by the snake
-  
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-  
-  <h3>✨ Let's connect and build something amazing together! ✨</h3>
-  
+  **💬 Ask me about:** AI/ML, React, Python, Data Science, or anything tech!<br>
+  **⚡ Fun fact:** I debug with rubber ducks and they're surprisingly good listeners! 🦆
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling&fontAlignY=75"/>
 </div>
