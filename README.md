@@ -103,30 +103,6 @@ Philosophy: Code with purpose, design with empathy, innovate with impact
 
 </div>
 
-##  Current Objectives
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">
-        <br><strong>Advanced AI Research</strong>
-        <br><sub>Exploring GPT models and Transformer architectures</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d7.gif" width="80">
-        <br><strong>Cloud-Native Development</strong>
-        <br><sub>Building scalable microservices with Docker & Kubernetes</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
-        <br><strong>Open Source Contributions</strong>
-        <br><sub>Contributing to AI/ML and React ecosystem projects</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## 🌐 Connect & Collaborate
 
 <p align="center">
@@ -139,54 +115,11 @@ Philosophy: Code with purpose, design with empathy, innovate with impact
   <a href="https://linkedin.com/in/devsujandas" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/devsujandas" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://facebook.com/devsujandas" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/devsujandas" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/devsujandas" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X (Twitter)" height="30" width="30" />
+</a>&nbsp;&nbsp;
+
 </p>
-
-##  Developer Insights
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming" alt="Programming Quote">
-</div>
-
-<div align="center">
-  <details>
-    <summary> Fun Facts About Me</summary>
-    <br>
-    <div align="left">
-      <h4>🧠 Technical Philosophy</h4>
-      <ul>
-        <li>🐍 Python purist for AI/ML - it's not just a language, it's an art form</li>
-        <li>⚛️ React enthusiast who believes in component-driven development</li>
-        <li>🎨 Design-first developer - great UX drives user adoption</li>
-        <li>📊 Data storyteller - turning complex datasets into actionable insights</li>
-      </ul>
-      
-      <h4>⚡ Work Style & Habits</h4>
-      <ul>
-        <li>☕ Coffee + Code = Productivity (optimal ratio: 2:1)</li>
-        <li>🌙 Night owl coder - best algorithms emerge after midnight</li>
-        <li>🎵 Lo-fi beats and synthwave fuel my coding sessions</li>
-        <li>🔄 Agile mindset - iterate fast, fail fast, learn faster</li>
-      </ul>
-      
-      <h4>🚀 Personal Interests</h4>
-      <ul>
-        <li>🌱 Continuous learner - always exploring emerging technologies</li>
-        <li>🤝 Open source advocate - believe in collaborative innovation</li>
-        <li>🎯 Problem solver - love tackling complex algorithmic challenges</li>
-        <li>🌟 Tech mentor - helping others break into AI and development</li>
-      </ul>
-    </div>
-  </details>
-</div>
 
 ---
 
@@ -201,6 +134,16 @@ Philosophy: Code with purpose, design with empathy, innovate with impact
   **⚡ Fun fact:** I debug with rubber ducks and they're surprisingly good listeners! 🦆
 </div>
 
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-contact@sujandas.info-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@sujandas.info)
+[![Website](https://img.shields.io/badge/Website-www.sujandas.info-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.sujandas.info)
+
+</div>
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling&fontAlignY=75"/>
+</div>
+
 </div>
