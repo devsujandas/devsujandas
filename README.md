@@ -1,7 +1,3 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Welcome%20to%20my%20Digital%20Universe&fontSize=28&fontAlignY=40&desc=Where%20Innovation%20Meets%20Imagination&descAlignY=60&descAlign=50&animation=twinkling"/>
-</div>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=1000&color=00D9FF&background=00000000&center=true&vCenter=true&width=550&lines=Hi+there!+I'm+Sujan+Das" alt="Typing SVG" />
 </h1>
@@ -83,7 +79,6 @@ Philosophy: Code with purpose, design with empathy, innovate with impact
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ##  AI/ML & Data
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -140,10 +135,6 @@ Philosophy: Code with purpose, design with empathy, innovate with impact
 [![Email](https://img.shields.io/badge/Email-contact@sujandas.info-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@sujandas.info)
 [![Website](https://img.shields.io/badge/Website-www.sujandas.info-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.sujandas.info)
 
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling&fontAlignY=75"/>
 </div>
 
 </div>
