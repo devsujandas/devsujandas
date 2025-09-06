@@ -20,7 +20,7 @@
 
 <div align="center">
   
-🤖 **AI/ML Engineering** • 🌐 **Web Development** • 📊 **Data Science** • ⚡ **Automation & APIs**
+🌐 **Web Development** • 📊 **Data Science** •⚡ **Automation & APIs** • 🤖 **AI/ML Engineering** 
 
 </div>
 
@@ -43,22 +43,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Live | Tech | Description |
-|---------|------|------|-------------|
-| **🎯 Moneytany** | [Demo](https://moneytany.sujandas.info/) | Next.js, PWA | Finance tracker with real-time insights |
-| **📊 AnlystoX** | [Demo](https://anlystox.vercel.app/) | React, Data Viz | Stock portfolio dashboard |
-| **🎓 Ed-Flourish** | [Demo](https://ed-flourish.vercel.app/) | AI/ML, Next.js | AI-powered learning platform |
-
-[🔗 **View All Projects**](https://www.sujandas.info/project)
-
-</div>
-
----
-
 ## 🌟 Professional Journey
 
 ```mermaid
@@ -69,7 +53,7 @@ timeline
                           : Focus on animations & performance
                           : Accessibility-first approach
     
-    BCA Graduation       : Python & DSA mastery
+    Graduation       : Python & DSA mastery
                          : Full-stack practices
                          : Next.js specialization
     
@@ -111,26 +95,7 @@ timeline
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devsujandas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsujandas&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF"/>
-
-</div>
-
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devsujandas&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" />
-
-</div>
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=devsujandas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-
-</div>
 
 <div align="center">
 
