@@ -1,49 +1,52 @@
 <div align="center">
-  
-# 👋 Hey, I'm Sujan Das
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=00D4FF&background=00000000&center=true&vCenter=true&width=600&lines=Data+Science+Engineer;Python+Expert;AI%2FML+Enthusiast;Full-Stack+Developer;Building+Intelligent+Experiences" alt="Typing Animation" />
+<h1 style="color:#00D4FF; font-size:56px; font-weight:1200; margin-bottom:10px;">
+  Sujan Das
+</h1>
 
-**Blending AI/ML with delightful, high-performance frontends**
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=800&color=00D4FF&background=00000000&center=true&vCenter=true&width=700&lines=Frontend+Engineer+%F0%9F%9A%80;Next.js+%26+TypeScript+Specialist;UI%2FUX+Focused+Builder;Crafting+Digital+Experiences" alt="Typing Animation" />
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sujandas.info-00D4FF?style=for-the-badge)](https://www.sujandas.info/)
-[![Email](https://img.shields.io/badge/📧_Contact-contact@sujandas.info-EA4335?style=for-the-badge)](mailto:contact@sujandas.info)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devsujandas)
+<strong>Transforming ideas into elegant, performant web experiences</strong>
+
+<br><br>
+
+<a href="https://www.sujandas.info/">
+  <img src="https://img.shields.io/badge/🌐_sujandas.info-00D4FF?style=for-the-badge&logoColor=white" />
+</a>
+<a href="mailto:contact@sujandas.info">
+  <img src="https://img.shields.io/badge/📧_contact@sujandas.info-EA4335?style=for-the-badge" />
+</a>
+<a href="https://linkedin.com/in/devsujandas">
+  <img src="https://img.shields.io/badge/in/devsujandas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
+
 ---
+##  What I Do
 
-## 🎯 What I Do
-
-> **I turn ideas into intelligent, production-grade experiences** — from ML models to polished UIs that feel effortless.
+> **I build fast, scalable, and visually refined web applications** — where clean code meets thoughtful design.
 
 <div align="center">
   
-🌐 **Web Development** • 📊 **Data Science** •⚡ **Automation & APIs** • 🤖 **AI/ML Engineering** 
+<strong>Frontend Architecture</strong> • <strong>UI / UX Engineering</strong> • <strong>Full-Stack Web Applications</strong> • <strong>Performance Optimization</strong>
 
 </div>
 
+
 ---
 
-## 🛠️ Tech Arsenal
+
+##  Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,tailwind,fastapi,postgresql,tensorflow,git&theme=dark" />
 </p>
 
-<div align="center">
-
-**Core:** Python, TypeScript, JavaScript  
-**Frontend:** Next.js, React, Tailwind CSS, Framer Motion  
-**Backend:** FastAPI, PostgreSQL, REST APIs  
-**AI/ML:** TensorFlow, scikit-learn, Pandas, NumPy  
-
-</div>
-
 ---
 
-## 🌟 Professional Journey
+##  Professional Journey
 
 ```mermaid
 timeline
@@ -64,16 +67,17 @@ timeline
 
 ---
 
-## 💡 Current Focus
+##  Current Focus
 
-🔬 Advanced ML deployment & MLOps  
-🎯 Data-driven web applications  
-🌱 Cutting-edge AI optimization  
-🤝 Open for freelance & remote work  
+• Building scalable, production-ready web applications  
+• Advanced Next.js patterns & frontend architecture  
+• Performance optimization and user experience refinement  
+• Open to freelance projects and remote opportunities  
 
 ---
 
-## 📬 Let's Connect
+
+##  Let's Connect
 
 <div align="center">
 
