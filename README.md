@@ -65,17 +65,18 @@
 timeline
     title My Development Timeline
     
-    Frontend Developer    : Built responsive interfaces
-                          : Focus on animations & performance
-                          : Accessibility-first approach
+    Frontend Developer    : Next.js & React UI
+                          : TypeScript Components
+                          : Framer Motion Animations
     
-    Graduation       : Python & DSA mastery
-                         : Full-stack practices
-                         : Next.js specialization
+    Graduation            : Web Fundamentals
+                          : Node.js Full Stack
+                          : Performance & SEO
     
-    Data Science Engineer : AI/ML pipeline design
-                          : Model training & deployment
-                          : Production-grade experiences
+    Web Engineer          : Production Next.js Apps
+                          : Clean Architecture
+                          : Scalable UX
+
 ```
 
 ---
