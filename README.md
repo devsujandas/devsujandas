@@ -1,27 +1,40 @@
 <div align="center">
 
-<h1 style="color:#00D4FF; font-size:56px; font-weight:1200; margin-bottom:10px;">
+<h1 style="color:#00D4FF; font-size:56px; font-weight:1200; margin-bottom:12px;">
   Sujan Das
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=800&color=00D4FF&background=00000000&center=true&vCenter=true&width=700&lines=Frontend+Engineer+%F0%9F%9A%80;Next.js+%26+TypeScript+Specialist;UI%2FUX+Focused+Builder;Crafting+Digital+Experiences" alt="Typing Animation" />
+<a href="https://www.sujandas.info/" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/VIEW%20PORTFOLIO-00D4FF?style=for-the-badge&logoColor=white" 
+    alt="View Portfolio"
+  />
+</a>
+
+<br><br>
+
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=800&color=00D4FF&background=00000000&center=true&vCenter=true&width=700&lines=Frontend+Engineer;Next.js+%26+TypeScript+Specialist;UI%2FUX+Focused+Builder;Crafting+Digital+Experiences" 
+  alt="Typing Animation" 
+/>
+
+<br/>
 
 <strong>Transforming ideas into elegant, performant web experiences</strong>
 
 <br><br>
 
-<a href="https://www.sujandas.info/">
-  <img src="https://img.shields.io/badge/🌐_sujandas.info-00D4FF?style=for-the-badge&logoColor=white" />
-</a>
-<a href="mailto:contact@sujandas.info">
-  <img src="https://img.shields.io/badge/📧_contact@sujandas.info-EA4335?style=for-the-badge" />
-</a>
-<a href="https://linkedin.com/in/devsujandas">
-  <img src="https://img.shields.io/badge/in/devsujandas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
 </div>
 
+
+
+<div align="center">
+  <img 
+    src="https://camo.githubusercontent.com/5941789c9f94b86b8790c1ac48276443b59b87f92cfcb741102569fc4af95bb1/68747470733a2f2f7777772e6d696e6a756e6b696d2e63612f696d616765732f6c6f6669626f792e676966"
+    width="420" 
+    alt="Developer at work"
+  />
+</div>
 
 ---
 ##  What I Do
