@@ -1,8 +1,9 @@
 <div align="center">
 
-<h1 style="color:#00D4FF; font-size:56px; font-weight:1200; margin-bottom:6px; margin-top:0;">
-  Sujan Das
+<h1 align="center">
+  Hi, I’m <span style="color:#00D4FF;">Sujan Das</span>
 </h1>
+
 
 <a href="https://www.sujandas.info/" target="_blank" style="display:inline-block; margin-bottom:6px;">
   <img
