@@ -5,7 +5,7 @@
 </h1>
 
 
-<a href="https://www.sujandas.info/" target="_blank" style="display:inline-block; margin-bottom:6px;">
+<a href="https://www.sujandas.in/" target="_blank" style="display:inline-block; margin-bottom:6px;">
   <img
     src="https://img.shields.io/badge/VIEW%20PORTFOLIO-00D4FF?style=for-the-badge&logoColor=white"
     alt="View Portfolio"
@@ -99,8 +99,8 @@ timeline
 
 **Ready to build something meaningful together?**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00D4FF?style=for-the-badge)](https://www.sujandas.info/)
-[![Email](https://img.shields.io/badge/✉️_Email-Let's_Chat-EA4335?style=for-the-badge)](mailto:contact@sujandas.info)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00D4FF?style=for-the-badge)](https://www.sujandas.in/)
+[![Email](https://img.shields.io/badge/✉️_Email-Let's_Chat-EA4335?style=for-the-badge)](mailto:contact@sujandas.in)
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devsujandas)
 
 </div>
